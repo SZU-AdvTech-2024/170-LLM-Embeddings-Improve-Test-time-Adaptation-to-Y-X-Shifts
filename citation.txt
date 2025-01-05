@@ -1,0 +1,9 @@
+@misc{REPO170,
+    author = "Zeng, Yibo and Liu, Jiashuo and Lam, Henry and Namkoong, Hongseok",
+    archiveprefix = "arXiv",
+    eprint = "2410.07395",
+    primaryclass = "cs.LG",
+    title = "{LLM Embeddings Improve Test-time Adaptation to Tabular $Y|X$-Shifts}",
+    url = "https://arxiv.org/abs/2410.07395",
+    year = "2024"
+}
